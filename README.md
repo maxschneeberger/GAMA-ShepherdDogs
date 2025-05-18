@@ -30,4 +30,4 @@ To run the model:
 
 ## 📘 License
 
-This project is released for educational and demonstration purposes. Feel free to explore, adapt, or reference it with credit.
+MIT
